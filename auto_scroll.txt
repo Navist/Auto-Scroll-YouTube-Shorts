@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Auto Scroll YouTube Shorts
-// @namespace    https://github.com/YourGitHubUsername/YouTubeShortsAutoScroll
+// @namespace    https://github.com/Navist/YouTubeShortsAutoScroll
 // @version      1.0
 // @description  Automatically scrolls to the next YouTube short when the current one finishes.
 // @author       Navist (AI Generated)
 // @match        https://www.youtube.com/shorts/*
 // @grant        none
 // @license      MIT
-// @homepageURL  https://github.com/YourGitHubUsername/YouTubeShortsAutoScroll
-// @supportURL   https://github.com/YourGitHubUsername/YouTubeShortsAutoScroll/issues
+// @homepageURL  https://github.com/Navist/YouTubeShortsAutoScroll
+// @supportURL   https://github.com/Navist/YouTubeShortsAutoScroll/issues
 // ==/UserScript==
 
 (function() {
